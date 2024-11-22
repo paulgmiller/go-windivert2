@@ -4,7 +4,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/imgk/shadow/utils/iptree"
+	"github.com/imgk/shadow/pkg/divert/filter/iptree"
 )
 
 type IPFilter struct {

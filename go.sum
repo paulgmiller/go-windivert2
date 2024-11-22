@@ -1,0 +1,4 @@
+github.com/imgk/shadow v0.0.0-20220602061839-8e6527b49347 h1:+n9gOTnygUanMSvJQ0iSaCkD1FydRyspLUXdr7sXOhE=
+github.com/imgk/shadow v0.0.0-20220602061839-8e6527b49347/go.mod h1:XagkY8klBsUs5OLNKvkQoULLLzzkeanZKBAJgB4QI1Q=
+golang.org/x/sys v0.27.0 h1:wBqf8DvsY9Y/2P8gAfPDEYNuS30J4lPHJxXSb/nJZ+s=
+golang.org/x/sys v0.27.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
